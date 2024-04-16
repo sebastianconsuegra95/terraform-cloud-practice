@@ -7,7 +7,7 @@ subnets = ["10.10.0.0/24", "10.10.1.0/24"]
 tags = {
   env     = "dev"
   owner   = "Sebastian"
-  iac     = "Terraform"
+  iac     = "terraform-cloud"
   project = "cerverus"
   region  = "virginia"
 }
