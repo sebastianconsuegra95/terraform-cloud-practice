@@ -43,3 +43,15 @@ variable "ingress_port_list" {
   type        = list(number)
 
 }
+
+variable "acces_key" {
+
+}
+
+variable "secret_key" {
+
+}
+
+variable "session_token" {
+
+}
